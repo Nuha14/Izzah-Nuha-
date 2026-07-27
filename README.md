@@ -9,12 +9,6 @@
   <img src="https://komarev.com/ghpvc/?username=nuha14&label=Profile%20views&color=0e75b6&style=flat" alt="nuha14" />
 </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=nuha14" alt="nuha14" />
-  </a>
-</p>
-
 - 🔭 I’m currently working on **Enterprise ERP System (Financial Management Modules)**
 
 - 🌱 I’m currently learning **Clean Architecture, CQRS, MediatR, Azure**
