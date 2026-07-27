@@ -5,6 +5,7 @@
 <h1 align="center">Hi 👋, I'm Nur Izzah Nuha Izam</h1>
 <h3 align="center">Software Developer from Malaysia</h3>
 
+
 - 🔭 I’m currently working on **Enterprise ERP System (Financial Management Modules)**
 
 - 🌱 I’m currently learning **Clean Architecture, CQRS, MediatR, Azure**
@@ -42,9 +43,9 @@ Cross-platform mobile application developed using Flutter.
 ### 🐍 Python Desktop Tool
 Desktop automation and utility applications built with Python.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nuha14&show_icons=true&locale=en&layout=compact" alt="nuha14" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nuha14&show_icons=true&locale=en&layout=compact" alt="Nuha14" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nuha14&show_icons=true&locale=en" alt="nuha14" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nuha14&show_icons=true&locale=en" alt="Nuha14" /></p>
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=Nuha14&show_icons=true&theme=tokyonight"/>
