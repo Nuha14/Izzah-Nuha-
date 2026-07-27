@@ -43,10 +43,6 @@ Cross-platform mobile application developed using Flutter.
 ### 🐍 Python Desktop Tool
 Desktop automation and utility applications built with Python.
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Nuha14&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nuha14&layout=compact&theme=tokyonight&cache_seconds=1800"/>
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Nuha14&theme=tokyonight"/>
